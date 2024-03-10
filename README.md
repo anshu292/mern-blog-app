@@ -12,8 +12,7 @@ This project is a dynamic blogging website developed using the MERN (MongoDB, Ex
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Version Control:** Git, GitHub
-- **Deployment:** Heroku, AWS
-
+  
 ## Setup Instructions
 1. Clone the repository: `git clone `
 2. Install dependencies for frontend and backend:
